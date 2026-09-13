@@ -303,4 +303,4 @@ the same pipeline with inline commentary and plots.
   they are used as a ranking/decision score, not a precise probability.
 - This model is intended to support triage decisions, not replace human
   review — particularly for cases near the decision boundary.
-# severity-classification-model
+
